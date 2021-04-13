@@ -12,12 +12,12 @@ const PizzaForm = ({ pizza, onSubmit }) => {
   }, [pizza])
 
   const submitPizza = () => {
-    // onSubmit({
-    //   id: pizza.id,
-    //   topping,
-    //   size,
-    //   vegetarian
-    // });
+    onSubmit({
+      id: pizza.id,
+      topping,
+      size,
+      vegetarian
+    });
 
     console.log({
       id: pizza.id,

@@ -26,9 +26,9 @@
     },
     {
       "id": 5,
-      "topping": "Bacon cheese",
-      "size": "Medium",
-      "vegetarian": false
+      "topping": "Bacon",
+      "size": "Large",
+      "vegetarian": true
     },
     {
       "id": 6,
@@ -57,7 +57,7 @@
     {
       "id": 10,
       "topping": "Chicken",
-      "size": "Large",
+      "size": "Medium",
       "vegetarian": true
     }
   ]
